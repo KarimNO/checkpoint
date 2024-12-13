@@ -18,8 +18,3 @@ for utilisateur in "$@"; do
     fi
 done
 
-
-
-![Capture d'écran 2024-12-13 120807](https://github.com/user-attachments/assets/6774c4ad-8a77-4691-a5c5-52501bda534c)
-
-![Capture d'écran 2024-12-13 121126](https://github.com/user-attachments/assets/0f37faea-bb53-4704-ba38-964c76a8c65f)
