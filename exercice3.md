@@ -22,3 +22,4 @@
 
 10) Les classes IP ont été remplacées par le CIDR pour éviter le gaspillage d’adresses en permettant de créer des réseaux de tailles adaptées aux besoins.
 
+(J'ai fais de la question 2 à la question 10 le jour meme vendredi 13/12/2024 de 18h30 à 19h30)
