@@ -13,7 +13,7 @@ for utilisateur in "$@"; do
         if useradd "$utilisateur" &>/dev/null; then
             echo "L'utilisateur $utilisateur a été créé"
         else
-            echo "Erreur lors de la création de l'utilisateur $username"
+            echo "Erreur lors de la création de l'utilisateur $utilisateur"
         fi
     fi
 done
