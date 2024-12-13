@@ -10,7 +10,9 @@
 
 ![6](https://github.com/user-attachments/assets/8d168af1-37ba-4299-8960-06c57e3bc11a)
 
-fdisk /dev/sdb, choisir n pour une nouvelle partition, p pour une primaire, le numero de partition 2, laisser par defaut en appuyant sur entrée, t pour chosiir le type de partition
+>fdisk /dev/sdb, choisir n pour une nouvelle partition, p pour une primaire, le numero de partition 2, laisser par defaut en appuyant sur entrée, t pour chosiir le type de partition 
+
+(désolé pour ce commentaire mais j'ai sans faire expret supprimé mon screenshot de mon ordi donc je te met juste le debut de la commande)
 
 ![7](https://github.com/user-attachments/assets/58da4993-e5db-4623-965e-9e42d78f5f36)
 
